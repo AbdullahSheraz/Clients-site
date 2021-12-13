@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-image: url(../img/download\ \(3\)\ 1.png);
+}
+.herosection{
+    /* background: url(./img/background00.jpg); */
+    background-color: black;
+    background-image: url(./img/download\ \(3\)\ 1.png);
+    height: 100vh;
+    background-size: cover;
+    padding-top: 200px;
+}
+.mainheading{
+    color: purple;
+    text-align: center;
+    font-size: 100px;
+}
+.subheading{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.links{
+    padding: 10px 25px;
+    border: 4px solid purple;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.links:hover{
+    background-color: purple;
+}
+.link{
+    margin-top: 65px;
+    text-align: center;
+}
+.privacy{
+    color: white;
+    text-align: center;
+    padding-top: 130px;
+}
